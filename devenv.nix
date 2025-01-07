@@ -9,6 +9,7 @@
 
   # https://devenv.sh/languages/
   languages.python.enable = true;
+  languages.python.venv.enable = true;
 
   # https://devenv.sh/processes/
   # processes.cargo-watch.exec = "cargo-watch";
